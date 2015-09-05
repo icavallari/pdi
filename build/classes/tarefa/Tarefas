@@ -1,0 +1,10 @@
+# criar tabela simples com o nome da imagem (informado pelo usuário), 
+    imagem_original bytea, imagem_processada bytea
+
+# criar form principal
+
+# criar form para upload/processamento
+
+# mostrar lista com as imagens do banco:
+    + preview-original < nome > preview-processada
+    + permitir deleção
